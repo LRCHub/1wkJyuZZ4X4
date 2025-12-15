@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "We are free",
+  "base_artist": "Tani Yuuki",
+  "createdAt": "2025-12-15T13:13:11.127309Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Now We Are Free - From \"Gladiator\" Soundtrack",
+      "artist": "Lisa Gerrard feat. Klaus Badelt, Hans Zimmer, Gavin Greenaway & The Lyndhurst Orchestra",
+      "has_synced": true,
+      "path": "select/01_Now_We_Are_Free_-_From__Gladiator__Soundtrack_Lisa_Gerrard_feat._Klaus_Badelt,_Hans_Zimmer,_Gavin_Greenaway_&_The_Lyndhurst_Or.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Now We Are Free - From gladiator Soundtrack",
+      "artist": "Lisa Gerrard, Klaus Badelt, Hans Zimmer, Gavin Greenaway, The Lyndhurst Orchestra",
+      "has_synced": true,
+      "path": "select/02_Now_We_Are_Free_-_From_gladiator_Soundtrack_Lisa_Gerrard,_Klaus_Badelt,_Hans_Zimmer,_Gavin_Greenaway,_The_Lyndhurst_Orchestr.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "We Are Free",
+      "artist": "Temperance",
+      "has_synced": true,
+      "path": "select/03_We_Are_Free_Temperance.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "We Are Free",
+      "artist": "Thee Oh Sees",
+      "has_synced": true,
+      "path": "select/04_We_Are_Free_Thee_Oh_Sees.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Now We Are Free",
+      "artist": "Lisa Gerrard",
+      "has_synced": true,
+      "path": "select/05_Now_We_Are_Free_Lisa_Gerrard.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Now We Are Free (Juba's Mix)",
+      "artist": "Lisa Gerrard, Hans Zimmer & Gavin Greenaway",
+      "has_synced": true,
+      "path": "select/06_Now_We_Are_Free_(Juba's_Mix)_Lisa_Gerrard,_Hans_Zimmer_&_Gavin_Greenaway.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Now We Are Free (Juba's Mix)",
+      "artist": "Gavin Greenaway",
+      "has_synced": true,
+      "path": "select/07_Now_We_Are_Free_(Juba's_Mix)_Gavin_Greenaway.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Now We Are Free (From \"Gladiator\")",
+      "artist": "Leona Lewis feat. Gavin Greenaway, Czech Philharmonic Orchestra & Jirana 'Fun' Williamson",
+      "has_synced": false,
+      "path": "select/08_Now_We_Are_Free_(From__Gladiator_)_Leona_Lewis_feat._Gavin_Greenaway,_Czech_Philharmonic_Orchestra_&_Jirana_'Fun'_W.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Now We Are Free (From \"Gladiator\")",
+      "artist": "Leona Lewis",
+      "has_synced": false,
+      "path": "select/09_Now_We_Are_Free_(From__Gladiator_)_Leona_Lewis.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Nelle tue mani (Now We Are Free) - From \"Gladiator\"",
+      "artist": "Andrea Bocelli",
+      "has_synced": true,
+      "path": "select/10_Nelle_tue_mani_(Now_We_Are_Free)_-_From__Gladiator_Andrea_Bocelli.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Nelle tue mani (Now We Are Free) (From \"Gladiator\")",
+      "artist": "Andrea Bocelli",
+      "has_synced": true,
+      "path": "select/11_Nelle_tue_mani_(Now_We_Are_Free)_(From__Gladiator_)_Andrea_Bocelli.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Nelle tue mani (Now We Are Free) (From 'Gladiator')",
+      "artist": "Andrea Bocelli",
+      "has_synced": true,
+      "path": "select/12_Nelle_tue_mani_(Now_We_Are_Free)_(From_'Gladiator')_Andrea_Bocelli.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Now We Are Free",
+      "artist": "Hans Zimmer & Lisa Gerrard",
+      "has_synced": false,
+      "path": "select/13_Now_We_Are_Free_Hans_Zimmer_&_Lisa_Gerrard.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "We Are Free",
+      "artist": "Jay Jay Pistolet",
+      "has_synced": true,
+      "path": "select/14_We_Are_Free_Jay_Jay_Pistolet.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Now We Are Free",
+      "artist": "Lisa Gerrard/Klaus Badelt/Hans Zimmer/Gavin Greenaway/The Lyndhurst Orchestra",
+      "has_synced": true,
+      "path": "select/15_Now_We_Are_Free_Lisa_Gerrard_Klaus_Badelt_Hans_Zimmer_Gavin_Greenaway_The_Lyndhurst_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "We Are Free Men",
+      "artist": "Bright Eyes",
+      "has_synced": true,
+      "path": "select/16_We_Are_Free_Men_Bright_Eyes.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "We are free",
+      "artist": "Tani Yuuki",
+      "has_synced": false,
+      "path": "select/pl_01_We_are_free_Tani_Yuuki.txt"
+    }
+  ]
+}
